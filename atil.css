@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+}
+header {
+  text-align: center;
+  padding: 40px;
+}
+p {
+    text-align:center;
+    color: darkgreen;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    font-size: 14px;
+    line-height: 16px;
+    width: 400px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+h2 {
+      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+      color: darkblue;
+}
+}
+header {
+  text-align: center;
+  padding: 40px;
+}
+
+a:link {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    line-height: 40px;
+    border: 1px solid #000000;
+}
+a:hover {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    line-height: 40px;
+    border: 1px solid #000000;
+}
+header {
+  text-align: center;
+  padding: 40px;
+}
+nav {
+  background-color: rgba(0, 10, 10, 0.10);
+  overflow: hidden;
+  text-align: center;
+}
+
